@@ -5,7 +5,7 @@
     <br />
     <br />
     <samp> <i> I'm Nuri Can from Turkey </i> </samp> <br />
-    <samp> <i> 3rd year Computer Engineering Student. </i> </samp>
+    <samp> <i> I am a 3rd year student of Computer Engineering at Marmara University. </i> </samp>
     <br />
     <samp>
         <br />
