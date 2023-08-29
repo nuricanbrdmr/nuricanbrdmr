@@ -4,8 +4,8 @@
     <img src="https://media3.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif?cid=ecf05e47fdyl7c2ts29a8rr3ygvpj1y2cfqzvwvoawm0p9na&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="220px"/>
     <br />
     <br />
-    <samp> <i> I'm Mücahit from Turkey </i> </samp> <br />
-    <samp> <i> a Coder, an Enterpreneur, an Engineer. </i> </samp>
+    <samp> <i> I'm Nuri Can from Turkey </i> </samp> <br />
+    <samp> <i> 3rd year Computer Engineering Student. </i> </samp>
     <br />
     <samp>
         <br />
