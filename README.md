@@ -1,8 +1,7 @@
 <h1 align="center">Hi there 👋</h1>
 
 <div align="center">
-    <img src="https://giphy.com/embed/jdPMeyv9rn0hZHh8n9"
-        width="180px" />
+    <img src="https://media3.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif?cid=ecf05e47fdyl7c2ts29a8rr3ygvpj1y2cfqzvwvoawm0p9na&ep=v1_gifs_related&rid=giphy.gif&ct=s"/>
     <br />
     <br />
     <samp> <i> I'm Mücahit from Turkey </i> </samp> <br />
